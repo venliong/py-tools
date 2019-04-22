@@ -16,5 +16,9 @@
 ## email
 - EmailUtil:简单发送邮件
 
+## db
+- mysql:基本操作mysql
+- redis:基本操作redis
+
 ## other
 - heart:输出[心形]
