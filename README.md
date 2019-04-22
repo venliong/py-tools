@@ -12,3 +12,6 @@
 
 ## zip
 - zip:解密压缩包
+
+## email
+- EmailUtil:简单发送邮件
