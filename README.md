@@ -15,3 +15,6 @@
 
 ## email
 - EmailUtil:简单发送邮件
+
+## other
+- heart:输出[心形]
